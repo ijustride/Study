@@ -1,0 +1,11 @@
+C:\Users\artek\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+C:\Users\artek\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+C:\Users\artek\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+C:\Users\artek\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+C:\Users\artek\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+C:\Users\artek\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\artek\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+C:\Users\artek\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+C:\Users\artek\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+C:\Users\artek\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+C:\Users\artek\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
